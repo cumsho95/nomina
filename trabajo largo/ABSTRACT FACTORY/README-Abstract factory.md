@@ -5,4 +5,5 @@
 >Segundo, las clases que van a heredar el Abstract Product para que se puedan implementar las familias a objetos específicos.
 >Tercero, El concrete Factory que es el que representa las creaciones específicas que servirán para poder crear todas las
 instancias de clases de la familia, y por último se define la estructura de estas creaciones las cuales deberán proporcionar una método para cada una de las clases de la familia.
->image.png
+
+>![image](https://user-images.githubusercontent.com/107563234/198851045-e75aa65c-cf8f-47f4-8f13-144f3d46f541.png)
